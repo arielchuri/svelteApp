@@ -1,4 +1,12 @@
 READ ME
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_Todo_list_beginning
+## Start up
+svelteapp$ cd frontend
+   npm run dev
+svelteapp$ source bin/env/activate
+svelteapp$ cd myproject
+   python manage.py runserver
 ## Structure
 svelteapp
   - frontend (svelte)
